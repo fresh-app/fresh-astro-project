@@ -891,9 +891,9 @@ eastasianwidth@^0.2.0:
   integrity sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==
 
 electron-to-chromium@^1.4.202:
-  version "1.4.219"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.219.tgz#a7a672304b6aa4f376918d3f63a47f2c3906009a"
-  integrity sha512-zoQJsXOUw0ZA0YxbjkmzBumAJRtr6je5JySuL/bAoFs0DuLiLJ+5FzRF7/ZayihxR2QcewlRZVm5QZdUhwjOgA==
+  version "1.4.220"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.220.tgz#947014e7179af429bbcfa1ba46eb721fe5097c4c"
+  integrity sha512-RA6Mn51gj2lyeAt/MiuVV+85tN8vt1jbWP+kx7S84htJ0MbIHGHdnVm+j+HzZQp69O6gWmhLBJ+Wpk2c445+ZA==
 
 emmet@^2.3.0:
   version "2.3.6"
