@@ -15,10 +15,10 @@
   resolved "https://registry.yarnpkg.com/@astrojs/compiler/-/compiler-0.23.5.tgz#ea57a2b994b2930e3b3d2d524f10866698fef4f1"
   integrity sha512-vBMPy9ok4iLapSyCCT1qsZ9dK7LkVFl9mObtLEmWiec9myGHS9h2kQY2xzPeFNJiWXUf9O6tSyQpQTy5As/p3g==
 
-"@astrojs/compiler@^0.26.0":
-  version "0.26.1"
-  resolved "https://registry.yarnpkg.com/@astrojs/compiler/-/compiler-0.26.1.tgz#b57f51c9b099b5fbab4db0bcd51189a16a568ec7"
-  integrity sha512-GoRi4qB05u+bVcSlR9nu9HJfSUGFBcoUUb+WFimKSm9e/KPTy0STOMb/Q0mLIcloavF4KvEqAnd9ukX62ewoaA==
+"@astrojs/compiler@^0.27.1":
+  version "0.27.1"
+  resolved "https://registry.yarnpkg.com/@astrojs/compiler/-/compiler-0.27.1.tgz#3c21d8affafc31048d8a6a4d8dc27057d047d5e4"
+  integrity sha512-jdbnULQkafKuSBa9yL7amQ5Ee7WIiQSAkCCGSgWhpt7t1HvtlbviNYuNIw5ob9Ax+rA08jNQ896rHqaPB31XjA==
 
 "@astrojs/language-server@^0.26.2":
   version "0.26.2"
@@ -652,12 +652,12 @@ ast-types@0.14.2:
   dependencies:
     tslib "^2.0.1"
 
-astro@^1.4.7:
-  version "1.4.7"
-  resolved "https://registry.yarnpkg.com/astro/-/astro-1.4.7.tgz#046d290fea6fda0543f3809e9808a99c10b8edc7"
-  integrity sha512-Vit4megdh1rLdET5+HwQTdiXOjWQNzPNxRbpp08qn/0xw7pxrYD34TqLl7j8lxwrF+ky9WohdQGo7fkBF6P3SQ==
+astro@^1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/astro/-/astro-1.5.0.tgz#a0235bb14ebb4d388c7ab84bf2f8880362d93495"
+  integrity sha512-xwneXjRT4FChouSe/cj6oJVU6Ux7Fd/7rfnh3mPlB9PTbN5UwnfCI5MjR7rTc93i169Jjh93FndrxmGX45sQBw==
   dependencies:
-    "@astrojs/compiler" "^0.26.0"
+    "@astrojs/compiler" "^0.27.1"
     "@astrojs/language-server" "^0.26.2"
     "@astrojs/markdown-remark" "^1.1.3"
     "@astrojs/telemetry" "^1.0.1"
@@ -678,6 +678,7 @@ astro@^1.4.7:
     common-ancestor-path "^1.0.1"
     cookie "^0.5.0"
     debug "^4.3.4"
+    deepmerge-ts "^4.2.2"
     diff "^5.1.0"
     eol "^0.9.1"
     es-module-lexer "^0.10.5"
@@ -688,6 +689,7 @@ astro@^1.4.7:
     gray-matter "^4.0.3"
     html-entities "^2.3.3"
     html-escaper "^3.0.3"
+    import-meta-resolve "^2.1.0"
     kleur "^4.1.4"
     magic-string "^0.25.9"
     mime "^3.0.0"
@@ -786,9 +788,9 @@ camelcase@^6.2.0:
   integrity sha512-Gmy6FhYlCY7uOElZUSbxo2UCDH8owEk996gkbrpsgGtrJLM3J7jGxl9Ic7Qwwj4ivOE5AWZWRMecDdF7hqGjFA==
 
 caniuse-lite@^1.0.30001400:
-  version "1.0.30001418"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001418.tgz#5f459215192a024c99e3e3a53aac310fc7cf24e6"
-  integrity sha512-oIs7+JL3K9JRQ3jPZjlH6qyYDp+nBTCais7hjh0s+fuBwufc7uZ7hPYMXrDOJhV360KGMTcczMRObk0/iMqZRg==
+  version "1.0.30001419"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001419.tgz#3542722d57d567c8210d5e4d0f9f17336b776457"
+  integrity sha512-aFO1r+g6R7TW+PNQxKzjITwLOyDhVRLjW0LcwS/HCZGUUKTGNp9+IwLC4xyDSZBygVL/mxaFR3HIV6wEKQuSzw==
 
 ccount@^2.0.0:
   version "2.0.1"
@@ -936,6 +938,11 @@ decode-named-character-reference@^1.0.0:
   dependencies:
     character-entities "^2.0.0"
 
+deepmerge-ts@^4.2.2:
+  version "4.2.2"
+  resolved "https://registry.yarnpkg.com/deepmerge-ts/-/deepmerge-ts-4.2.2.tgz#582bf34a37592dc8274b137617b539f871aaf11a"
+  integrity sha512-Ka3Kb21tiWjvQvS9U+1Dx+aqFAHsdTnMdYptLTmC2VAmDFMugWMY1e15aTODstipmCun8iNuqeSfcx6rsUUk0Q==
+
 deepmerge@^4.2.2:
   version "4.2.2"
   resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-4.2.2.tgz#44d2ea3679b8f4d4ffba33f03d865fc1e7bf4955"
@@ -992,9 +999,9 @@ eastasianwidth@^0.2.0:
   integrity sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==
 
 electron-to-chromium@^1.4.251:
-  version "1.4.280"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.280.tgz#1a0d29bf39ffd2719dbacc3cd8d2415a72457490"
-  integrity sha512-EP8OKK3oXdQs9SURLaEtZUKiLwldZjDfFzFIvrbcqk2otKncds2AYU5fLACbsmvnU2vtn0yU/6ewpxhcMis9gQ==
+  version "1.4.282"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.282.tgz#02af3fd6051e97ac3388a4b11d455bc1ca49838f"
+  integrity sha512-Dki0WhHNh/br/Xi1vAkueU5mtIc9XLHcMKB6tNfQKk+kPG0TEUjRh5QEMAUbRp30/rYNMFD1zKKvbVzwq/4wmg==
 
 emmet@^2.3.0:
   version "2.3.6"
@@ -3355,9 +3362,9 @@ vfile@^5.0.0, vfile@^5.3.2:
     vfile-message "^3.0.0"
 
 vite@~3.1.3:
-  version "3.1.7"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-3.1.7.tgz#9fc2b57a395f79175d38fa3cffd15080b0d9cbfc"
-  integrity sha512-5vCAmU4S8lyVdFCInu9M54f/g8qbOMakVw5xJ4pjoaDy5wgy9sLLZkGdSLN52dlsBqh0tBqxjaqqa8LgPqwRAA==
+  version "3.1.8"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-3.1.8.tgz#fa29144167d19b773baffd65b3972ea4c12359c9"
+  integrity sha512-m7jJe3nufUbuOfotkntGFupinL/fmuTNuQmiVE7cH2IZMuf4UbfbGYMUT3jVWgGYuRVLY9j8NnrRqgw5rr5QTg==
   dependencies:
     esbuild "^0.15.9"
     postcss "^8.4.16"
