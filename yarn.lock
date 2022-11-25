@@ -652,10 +652,10 @@ ast-types@0.14.2:
   dependencies:
     tslib "^2.0.1"
 
-astro@^1.6.10:
-  version "1.6.10"
-  resolved "https://registry.yarnpkg.com/astro/-/astro-1.6.10.tgz#8d9877b49e6f2b0ee64503bcc759d73a992b05bf"
-  integrity sha512-W/ZGROkCKsDicpiXB82n8EkY6I0/12wdXS80NGaBdIUR1jZZxdN+0YMmdz+C2kYbjlo45KUsXpC/Tej+5KQYSQ==
+astro@^1.6.11:
+  version "1.6.11"
+  resolved "https://registry.yarnpkg.com/astro/-/astro-1.6.11.tgz#c57be038aef89eb65b0e08caf6fba3a6e3c11d9a"
+  integrity sha512-T0xb0U0FOrqXxl87x4mjpufhf0b47RMPIu8WWK+2ODrRZkPj1sr24alh3Y/PLSyiWSqoGZF7xzQ6hzt0jDCyVQ==
   dependencies:
     "@astrojs/compiler" "^0.29.15"
     "@astrojs/language-server" "^0.28.3"
@@ -840,9 +840,9 @@ character-reference-invalid@^2.0.0:
   integrity sha512-iBZ4F4wRbyORVsu0jPV7gXkOsGYjGHPmAyv+HiHG8gi5PtC9KI2j1+v8/tlibRvjoWX027ypmG/n0HtO5t7unw==
 
 ci-info@^3.3.1:
-  version "3.6.2"
-  resolved "https://registry.yarnpkg.com/ci-info/-/ci-info-3.6.2.tgz#362ea15378f1c39378ba786affbc1c9ef015ecfd"
-  integrity sha512-lVZdhvbEudris15CLytp2u6Y0p5EKfztae9Fqa189MfNmln9F33XuH69v5fvNfiRN5/0eAUz2yJL3mo+nhaRKg==
+  version "3.7.0"
+  resolved "https://registry.yarnpkg.com/ci-info/-/ci-info-3.7.0.tgz#6d01b3696c59915b6ce057e4aa4adfc2fa25f5ef"
+  integrity sha512-2CpRNYmImPx+RXKLq6jko/L07phmS9I02TyqkcNU20GCF/GgaWvc58hPtjxDX8lPpkdwc9sNh72V9k00S7ezog==
 
 cli-boxes@^3.0.0:
   version "3.0.0"
