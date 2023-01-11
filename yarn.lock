@@ -976,9 +976,9 @@ detect-node@^2.0.4:
   integrity sha512-T0NIuQpnTvFDATNuHN5roPwSBG83rFsuO+MXXH9/3N1eFbn4wcPjttvjMLEPWJ0RGUYgQE7cGgS3tNxbqCGM7g==
 
 devalue@^4.2.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/devalue/-/devalue-4.2.0.tgz#3f542d7c828e317bab5fd3bcecde210af8f83d4b"
-  integrity sha512-mbjoAaCL2qogBKgeFxFPOXAUsZchircF+B/79LD4sHH0+NHfYm8gZpQrskKDn5gENGt35+5OI1GUF7hLVnkPDw==
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/devalue/-/devalue-4.2.1.tgz#5dcd17d7f443d79441da6cb8d9ed0419873c5e1a"
+  integrity sha512-YBJUuWIDFor9zhRQJguMjvzBC4cUjZXgebcmCQO/Va4RLQ1b33+JKXJapOyuaHGW8Y986ygKyXQvR3LlOonLow==
 
 diff@^5.0.0, diff@^5.1.0:
   version "5.1.0"
