@@ -16,9 +16,9 @@
   integrity sha512-6bBFeDTtPOn4jZaiD3p0f05MEGQL9pw2Zbfj546oFETNmjJFWO3nzHz6/m+P53calknCvyVzZ5YhoBLIvzn5iw==
 
 "@astrojs/compiler@^1.2.0":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@astrojs/compiler/-/compiler-1.2.1.tgz#7eee408b83dd48eb3af3c5570545ce5f5719d300"
-  integrity sha512-HmHgN/h/CapbMIJnnaB6WQ6Kg85byCEz+GuKl87mNEwxa6anfMJKC9TC/D1bVNwDwTCEOsDG7WJVMDIJbE4hkw==
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/@astrojs/compiler/-/compiler-1.2.2.tgz#79a0e5085c1e8f4b3d794ba6a20a1823d8554133"
+  integrity sha512-S5UfaoYPgdKjxXjHq9jwHfNJJYZq77WRGgT6bQRmccGI/3dC/TakDW2nITNhju6kvRK1I8GI7ZHFJnVfA9cyhg==
 
 "@astrojs/language-server@^0.28.3":
   version "0.28.3"
@@ -562,9 +562,9 @@
   integrity sha512-sqm9g7mHlPY/43fcSNrCYfOeX9zkTTK+euO5E6+CVijSMm5tTjkVdwdqRkY3ljjIAf8679vps5jKUoJBCLsMDA==
 
 "@types/mdast@^3.0.0":
-  version "3.0.10"
-  resolved "https://registry.yarnpkg.com/@types/mdast/-/mdast-3.0.10.tgz#4724244a82a4598884cbbe9bcfd73dff927ee8af"
-  integrity sha512-W864tg/Osz1+9f4lrGTZpCSO5/z4608eUp19tbozkq2HJK6i3z1kT0H9tlADXuYIb1YYOBByU4Jsqkk75q48qA==
+  version "3.0.11"
+  resolved "https://registry.yarnpkg.com/@types/mdast/-/mdast-3.0.11.tgz#dc130f7e7d9306124286f6d6cee40cf4d14a3dc0"
+  integrity sha512-Y/uImid8aAwrEA24/1tcRZwpxX3pIFTSilcNDKSPn+Y2iDywSEachzRuvgAYYLR3wpGXAsMbv5lvKLDZLeYPAw==
   dependencies:
     "@types/unist" "*"
 
@@ -677,7 +677,7 @@ array-iterate@^2.0.0:
   resolved "https://registry.yarnpkg.com/array-iterate/-/array-iterate-2.0.1.tgz#6efd43f8295b3fee06251d3d62ead4bd9805dd24"
   integrity sha512-I1jXZMjAgCMmxT4qxXfPXa6SthSoE8h6gkSI9BGGNv8mP8G/v0blc+qFnZu6K42vTOiuME596QaLO0TP3Lk0xg==
 
-astro@^2.0.18:
+astro@^2.1.3:
   version "2.1.3"
   resolved "https://registry.yarnpkg.com/astro/-/astro-2.1.3.tgz#bbdab51f3c12b1594a8f12f76a5e87551bff85ec"
   integrity sha512-5LFo/ixDXs84tgrSbzz0X5c7nzLfkag7w4tgOpBRL/DkveP83v+nSe3KjqwYLPL5vNY9UvryKHsfC0uu4TQz0g==
@@ -1016,9 +1016,9 @@ eastasianwidth@^0.2.0:
   integrity sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==
 
 electron-to-chromium@^1.4.284:
-  version "1.4.333"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.333.tgz#ebb21f860f8a29923717b06ec0cb54e77ed34c04"
-  integrity sha512-YyE8+GKyGtPEP1/kpvqsdhD6rA/TP1DUFDN4uiU/YI52NzDxmwHkEb3qjId8hLBa5siJvG0sfC3O66501jMruQ==
+  version "1.4.334"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.334.tgz#eacdcb1145534202d569610c5915b63a3fec0eb9"
+  integrity sha512-laZ1odk+TRen6q0GeyQx/JEkpD3iSZT7ewopCpKqg9bTjP1l8XRfU3Bg20CFjNPZkp5+NDBl3iqd4o/kPO+Vew==
 
 emmet@^2.3.0:
   version "2.3.6"
@@ -2235,9 +2235,9 @@ prettier-plugin-astro@^0.7.0:
     synckit "^0.8.4"
 
 prettier@^2.7.1:
-  version "2.8.4"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.4.tgz#34dd2595629bfbb79d344ac4a91ff948694463c3"
-  integrity sha512-vIS4Rlc2FNh0BySk3Wkd6xmwxB0FpOndW5fisM5H8hsZSxU2VWVB5CWIkIjWvrHjIhxk2g3bfMKM87zNTrZddw==
+  version "2.8.5"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.5.tgz#3dd8ae1ebddc4f6aa419c9b64d8c8319a7e0d982"
+  integrity sha512-3gzuxrHbKUePRBB4ZeU08VNkUcqEHaUaouNt0m7LGP4Hti/NuB07C7PPTM/LkWqXoJYJn2McEo5+kxPNrtQkLQ==
 
 prismjs@^1.28.0:
   version "1.29.0"
@@ -2423,9 +2423,9 @@ reusify@^1.0.4:
   integrity sha512-U9nH88a3fc/ekCF1l0/UP1IosiuIjyTh7hBvXVMHYgVcfGvt897Xguj2UOLDeI5BG2m7/uwyaLVT6fbtCwTyzw==
 
 rollup@^3.18.0:
-  version "3.19.1"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.19.1.tgz#2b3a31ac1ff9f3afab2e523fa687fef5b0ee20fc"
-  integrity sha512-lAbrdN7neYCg/8WaoWn/ckzCtz+jr70GFfYdlf50OF7387HTg+wiuiqJRFYawwSPpqfqDNYqK7smY/ks2iAudg==
+  version "3.20.0"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.20.0.tgz#ce7bd88449a776b9f75bf4e35959e25fbd3f51b1"
+  integrity sha512-YsIfrk80NqUDrxrjWPXUa7PWvAfegZEXHuPsEZg58fGCdjL1I9C1i/NaG+L+27kxxwkrG/QEDEQc8s/ynXWWGQ==
   optionalDependencies:
     fsevents "~2.3.2"
 
@@ -2863,9 +2863,9 @@ vfile@^5.0.0, vfile@^5.3.2:
     vfile-message "^3.0.0"
 
 vite@^4.1.2:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-4.2.0.tgz#d4e6eafbc034f3faf0ab376bd5b76ac15775eb99"
-  integrity sha512-AbDTyzzwuKoRtMIRLGNxhLRuv1FpRgdIw+1y6AQG73Q5+vtecmvzKo/yk8X/vrHDpETRTx01ABijqUHIzBXi0g==
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-4.2.1.tgz#6c2eb337b0dfd80a9ded5922163b94949d7fc254"
+  integrity sha512-7MKhqdy0ISo4wnvwtqZkjke6XN4taqQ2TBaTccLIpOKv7Vp2h4Y+NpmWCnGDeSvvn45KxvWgGyb0MkHvY1vgbg==
   dependencies:
     esbuild "^0.17.5"
     postcss "^8.4.21"
