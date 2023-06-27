@@ -11,9 +11,9 @@
     "@jridgewell/trace-mapping" "^0.3.9"
 
 "@astrojs/compiler@^1.0.1", "@astrojs/compiler@^1.4.2", "@astrojs/compiler@^1.5.0":
-  version "1.5.1"
-  resolved "https://registry.yarnpkg.com/@astrojs/compiler/-/compiler-1.5.1.tgz#cd2e2c33721d7c7f345052c50a8d4fd047b91e2c"
-  integrity sha512-iIGKu/uzB8sJ5VveQf0eHrVPPFEcrvSlp4qShYMOuY2aMmK2RVXQlX9dUjtmBQ+NAokfIOb7fwCutvH+p13l+g==
+  version "1.5.2"
+  resolved "https://registry.yarnpkg.com/@astrojs/compiler/-/compiler-1.5.2.tgz#2709d942a53c4f618ff9ef63a583e62c51be6243"
+  integrity sha512-EZ3d5UTqN71N2zE3VdzVJeM+dM+pu0wV/jOi6g2VDU21LQTWozafsFMpbcLE/ksmTmbQM90/Tnn19/IR9fWGUw==
 
 "@astrojs/internal-helpers@^0.1.0":
   version "0.1.0"
@@ -1058,9 +1058,9 @@ eastasianwidth@^0.2.0:
   integrity sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==
 
 electron-to-chromium@^1.4.431:
-  version "1.4.440"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.440.tgz#d3b1eeb36b717eb479a240c0406ac1fa67901762"
-  integrity sha512-r6dCgNpRhPwiWlxbHzZQ/d9swfPaEJGi8ekqRBwQYaR3WmA5VkqQfBWSDDjuJU1ntO+W9tHx8OHV/96Q8e0dVw==
+  version "1.4.441"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.441.tgz#94dd9c1cbf081d83f032a4f1cd9f787e21fc24ce"
+  integrity sha512-LlCgQ8zgYZPymf5H4aE9itwiIWH4YlCiv1HFLmmcBeFYi5E+3eaIFnjHzYtcFQbaKfAW+CqZ9pgxo33DZuoqPg==
 
 emmet@^2.4.3:
   version "2.4.4"
@@ -2511,9 +2511,9 @@ reusify@^1.0.4:
   integrity sha512-U9nH88a3fc/ekCF1l0/UP1IosiuIjyTh7hBvXVMHYgVcfGvt897Xguj2UOLDeI5BG2m7/uwyaLVT6fbtCwTyzw==
 
 rollup@^3.21.0:
-  version "3.25.2"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.25.2.tgz#3479d72955a83da9019f926d4ba285d630b7656b"
-  integrity sha512-VLnkxZMDr3jpxgtmS8pQZ0UvhslmF4ADq/9w4erkctbgjCqLW9oa89fJuXEs4ZmgyoF7Dm8rMDKSS5b5u2hHUg==
+  version "3.25.3"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.25.3.tgz#f9a8986f0f244bcfde2208da91ba46b8fd252551"
+  integrity sha512-ZT279hx8gszBj9uy5FfhoG4bZx8c+0A1sbqtr7Q3KNWIizpTdDEPZbV2xcbvHsnFp4MavCQYZyzApJ+virB8Yw==
   optionalDependencies:
     fsevents "~2.3.2"
 
@@ -2797,9 +2797,9 @@ tsconfig-resolver@^3.0.1:
     type-fest "^0.13.1"
 
 tslib@^2.5.0:
-  version "2.5.3"
-  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.5.3.tgz#24944ba2d990940e6e982c4bea147aba80209913"
-  integrity sha512-mSxlJJwl3BMEQCUNnxXBU9jP4JBktcEGhURcPR6VQVlnP0FdDEsIaz0C35dXNGLyRfrATNofF0F5p2KPxQgB+w==
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.6.0.tgz#b295854684dbda164e181d259a22cd779dcd7bc3"
+  integrity sha512-7At1WUettjcSRHXCyYtTselblcHl9PJFFVKiCAy/bY97+BPZXSQ2wbq0P9s8tK2G7dFQfNnlJnPAiArVBVBsfA==
 
 type-fest@^0.13.1:
   version "0.13.1"
