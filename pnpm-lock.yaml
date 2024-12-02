@@ -1540,8 +1540,8 @@ packages:
   tslib@2.8.1:
     resolution: {integrity: sha512-oJFu94HQb+KVduSUQL7wnpmqnfmLsOA/nAh6b6EH0wCEoK0/mPeXU6c3wKDV83MkOuHPRHtSXKKU99IBazS/2w==}
 
-  type-fest@4.29.0:
-    resolution: {integrity: sha512-RPYt6dKyemXJe7I6oNstcH24myUGSReicxcHTvCLgzm4e0n8y05dGvcGB15/SoPRBmhlMthWQ9pvKyL81ko8nQ==}
+  type-fest@4.29.1:
+    resolution: {integrity: sha512-Y1zUveI92UYM/vo1EFlQSsNf74+hfKH+7saZJslF0Fw92FRaiTAnHPIvo9d7SLxXt/gAYqA4RXyDTioMQCCp0A==}
     engines: {node: '>=16'}
 
   typesafe-path@0.2.2:
@@ -2542,7 +2542,7 @@ snapshots:
       chalk: 5.3.0
       cli-boxes: 3.0.0
       string-width: 7.2.0
-      type-fest: 4.29.0
+      type-fest: 4.29.1
       widest-line: 5.0.0
       wrap-ansi: 9.0.0
 
@@ -3652,7 +3652,7 @@ snapshots:
   tslib@2.8.1:
     optional: true
 
-  type-fest@4.29.0: {}
+  type-fest@4.29.1: {}
 
   typesafe-path@0.2.2: {}
 
