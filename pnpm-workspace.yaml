@@ -8,5 +8,3 @@ allowBuilds:
   "@tailwindcss/oxide": true
   "@parcel/watcher": true
   rollup: true
-minimumReleaseAgeExclude:
-  - astro@6.4.4
